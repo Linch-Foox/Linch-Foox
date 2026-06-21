@@ -9,7 +9,7 @@ I'm interested in technology, cybersecurity, cryptography, networking, and engin
 
 ## [●] Skills
 - Basic programming ( python and bash )
-- Networking (LAN / VLAN / wireless experiments)
+- Networking ( LAN / VLAN )
 - Linux / Windows systems
 - Git & GitHub
 
