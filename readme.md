@@ -10,6 +10,7 @@ I'm interested in technology, cybersecurity, cryptography, networking, and engin
 ## [●] Skills
 - Basic programming ( python and bash )
 - Website development ( HTML and CSS )
+- Basic Geographic Information System
 - Networking ( LAN / VLAN )
 - Linux / Windows systems
 - Git & GitHub
