@@ -8,7 +8,7 @@ I'm interested in technology, cybersecurity, cryptography, networking, and engin
 - Based in Ukraine
 
 ## [●] Skills
-- Basic programming
+- Basic programming ( python and bash )
 - Networking (LAN / VLAN / wireless experiments)
 - Linux / Windows systems
 - Git & GitHub
