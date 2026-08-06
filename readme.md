@@ -30,7 +30,7 @@ I enjoy building practical projects in cybersecurity, networking, Linux, and sof
 - ASUS RT-N12E
 - LAN / VLAN
 - TCP / IP
-- WireGuard
+- WireGuard /n
  **Operating Systems**
 - Ubuntu Server
 - Linux Mint
