@@ -3,7 +3,7 @@
 I'm interested in technology, cybersecurity, cryptography, networking, and engineering.
 
 ## [●] About Me
-- Interested in IT, networking, and system
+- Interested in IT infrastructure, networking, Linux, and cybersecurity
 - Goal: grow in engineering / IT fields, start your own homelab project
 - Based in Ukraine
 
