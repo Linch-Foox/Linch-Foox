@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Linch Foox
 
-I'm interested in technology, cybersecurity, cryptography, networking, and engineering.
+I enjoy building practical projects in cybersecurity, networking, Linux, and software engineering. I like learning by experimenting and documenting what I build.
 
 ## [●] About Me
 - Interested in IT infrastructure, networking, Linux, and cybersecurity
@@ -18,5 +18,4 @@ I'm interested in technology, cybersecurity, cryptography, networking, and engin
 ---
 
 ⭐ Thanks for visiting my profile!
-```
 
