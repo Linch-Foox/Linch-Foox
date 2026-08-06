@@ -16,26 +16,26 @@ I enjoy building practical projects in cybersecurity, networking, Linux, and sof
 - Git & GitHub
 
 ## [●] Technologies
-**Programming Languages**
+[+] **Programming Languages**
 - Python
 - Bash
- **Web Technologies**
+[+] **Web Technologies**
 - HTML & CSS
- **GIS**
+[+] **GIS**
 - QGIS
 - Google Earth Pro
- **Networking**
+[+] **Networking**
 - Cisco 2800 (Cisco IOS)
 - ASUS RT-AC1200
 - ASUS RT-N12E
 - LAN / VLAN
 - TCP / IP
-- WireGuard /n
- **Operating Systems**
+- WireGuard 
+[+] **Operating Systems**
 - Ubuntu Server
 - Linux Mint
 - Windows 10 / 11
- **Tools**
+[+] **Tools**
 - Git & GitHub
 ---
 
