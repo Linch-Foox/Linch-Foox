@@ -1,42 +1,26 @@
 # 👋 Hi, I'm Linch Foox
 
-I enjoy building practical projects in cybersecurity, networking, Linux, and software engineering. I like learning by experimenting and documenting what I build.
+Network Engineering • Cybersecurity • Linux
+
+I enjoy building practical networking and cybersecurity projects, experimenting with Linux servers, and documenting what I learn. My goal is to understand how computer systems work from the hardware and network layers up to software
 
 ## [●] About Me
 - Interested in IT infrastructure, networking, Linux, and cybersecurity
-- Goal: grow in engineering / IT fields, start your own homelab project
-- Based in Ukraine
+- Goal: Become a network and cybersecurity engineer while building my own homelab
+- Based in Lviv, Ukraine
 
 ## [●] Skills
-- Basic programming ( python and bash )
-- Website development ( HTML and CSS )
-- Basic Geographic Information System
-- Networking ( LAN / VLAN, WireGuard, TCP/IP)
-- Linux / Windows systems
+- Programming ( python, bash )
+- Web development ( HTML & CSS )
+- Geographic Information System ( Google Earth Pro, QGIS )
+- Networking ( LAN / VLAN, WireGuard, TCP/IP, Cisco)
+- Linux & Windows systems
 - Git & GitHub
 
-## [●] Technologies
-##### Programming Languages
-- Python
-- Bash
-##### Web Technologies
-- HTML & CSS
-##### GIS
-- QGIS
-- Google Earth Pro
-##### Networking
-- Cisco 2800 (Cisco IOS)
-- ASUS RT-AC1200
-- ASUS RT-N12E
-- LAN / VLAN
-- TCP / IP
-- WireGuard 
-##### Operating Systems
-- Ubuntu Server
-- Linux Mint
-- Windows 10 / 11
-##### Tools
-- Git & GitHub
+## [●] Projects
+- Socket Chat Two-Party Protocol (*in progress...*)
+- Homelab (*in progress...*)
+
 ---
 
 ⭐ Thanks for visiting my profile!
