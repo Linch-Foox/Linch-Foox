@@ -25,21 +25,18 @@ I enjoy building practical projects in cybersecurity, networking, Linux, and sof
 - QGIS
 - Google Earth Pro
 ##### Networking
-- Cisco 2800
+- Cisco 2800 (Cisco IOS)
 - ASUS RT-AC1200
 - ASUS RT-N12E
-- Cisco IOS
 - LAN / VLAN
-- TCP/IP
+- TCP / IP
 - WireGuard
 ##### Operating Systems
 - Ubuntu Server
 - Linux Mint
-- Windows 10
-- Windows 11
+- Windows 10 / 11
 ##### Tools
-- Git
-- GitHub
+- Git & GitHub
 ---
 
 ⭐ Thanks for visiting my profile!
