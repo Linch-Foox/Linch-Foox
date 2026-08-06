@@ -20,6 +20,7 @@ I enjoy building practical networking and cybersecurity projects, experimenting 
 ## [●] Projects
 - Socket Chat Two-Party Protocol (*in progress...*)
 - Homelab (*in progress...*)
+- Universal downloader
 
 ---
 
